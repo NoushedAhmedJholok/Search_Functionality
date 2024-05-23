@@ -1,6 +1,8 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 ## Here I will show how the search function in Laravel works or what the code is.
+![image](https://github.com/NoushedAhmedJholok/Search_Functionality/assets/80415299/c9318487-c55a-45fa-920b-9f84a86ac926)
+
 
 ### First let's show the search form / code
 ```language
